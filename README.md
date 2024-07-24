@@ -8,14 +8,20 @@ The primary goal of this project is to leverage historical match data, player st
 #### Data Collection and Preprocessing
 #### ->Datasets:
 ->Match.csv (756, 18)
+
 ->Final_df (71,342, 10)
+
 ->Delivery.csv (149,578, 24)
 
 #### ->Workflow:
 ->Data Cleaning: Enhancing the quality and reliability of the dataset.
+
 ->Data Extraction: Retrieving specific information or patterns from the dataset.
+
 ->Exploratory Data Analysis (EDA): Visually and statistically summarizing, interpreting, and understanding the main characteristics of the dataset.
+
 ->Visualization: Representing data through visual elements like charts, graphs, and maps to facilitate better understanding, analysis, and communication of patterns and insights.
+
 ### Machine Learning Models
 #### Seven machine learning classification algorithms were employed for predicting IPL match outcomes:
 ->Linear Regression: A statistical method used for modeling the relationship between a dependent variable and one or more independent variables.
