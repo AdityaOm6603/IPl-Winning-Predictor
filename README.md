@@ -45,6 +45,6 @@ The best-performing model among the above was selected based on its accuracy and
 Graphical representations of the training and testing accuracy for all models were created to visualize their performance. These graphs included runs scored after each over, wickets fallen, and both win and loss percentages of the batting team.
 
 ### Conclusion
-The IPL Winning Predictor provides statistical insights and trends that contribute to a deeper understanding of player and team performances. It enhances cricket fans' engagement and excitement as they anticipate match outcomes and contributes to the broader field of cricket analytics and sports science research. IPL teams can gain strategic insights into their opponents, leading to better team strategies.
+The IPL Winning Predictor through machine learning provides statistical insights and trends that contribute to a deeper understanding of player and team performances. It enhances cricket fans' engagement and excitement as they anticipate match outcomes and contributes to the broader field of cricket analytics and sports science research. IPL teams can gain strategic insights into their opponents, leading to better team strategies.
 
 With the help of machine learning algorithm it provides graphical representation about the winning probability of a team based on the players, teams, deliveries and pitch factor.
