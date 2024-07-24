@@ -19,11 +19,17 @@ The primary goal of this project is to leverage historical match data, player st
 ### Machine Learning Models
 #### Seven machine learning classification algorithms were employed for predicting IPL match outcomes:
 ->Linear Regression: A statistical method used for modeling the relationship between a dependent variable and one or more independent variables.
+
 ->Logistic Regression: A binary classification algorithm used to predict the probability of an instance belonging to a particular class.
+
 ->K-Nearest Neighbors (KNN): A classification algorithm that classifies an object by the majority class of its k nearest neighbors in the feature space.
+
 ->Gaussian Naïve Bayes: A probabilistic classification algorithm based on Bayes' theorem, effective for text and real-valued data.
+
 ->Decision Tree: An algorithm that recursively partitions the data into subsets based on feature values to make decisions.
+
 ->Random Forest Classifier: An ensemble algorithm that constructs multiple decision trees and outputs the mode or mean prediction of the individual trees.
+
 ->XGBoost Classifier: A powerful gradient boosting framework that builds a series of decision trees sequentially, optimizing for errors in predictions.
 
 ### Best Model
