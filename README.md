@@ -1,6 +1,6 @@
 ## IPl-Winning-Predictor
 ### Project Description
-Welcome, cricket enthusiasts, to a fascinating journey into the world of data-driven predictions and cricket excitement! In a cricket-crazy nation like ours, the Indian Premier League (IPL) holds a special place. It's not just a tournament; it's a celebration of cricketing prowess, strategies, and unpredictable outcomes. Predicting IPL match outcomes accurately has always been a challenge due to various dynamic factors like player form, team performance, and match conditions.
+In a cricket-crazy nation like ours, the Indian Premier League (IPL) since 2008, holds a special place. It's not just a tournament; it's a celebration of cricketing prowess, strategies, and unpredictable outcomes. Predicting IPL match outcomes accurately has always been a challenge due to various dynamic factors like player form, team performance, and match conditions.
 
 The primary goal of this project is to leverage historical match data, player statistics, team performance metrics, and other relevant features to predict which team is likely to win a particular match. This project aims to assist fantasy cricket players in selecting the most effective team for IPL fantasy leagues and to contribute to more informed and balanced betting markets.
 
